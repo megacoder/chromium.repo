@@ -1,0 +1,5 @@
+[chromium]
+name=Chromium Test Packages (Tom "Spot" Calloway)
+baseurl=http://spot.fedorapeople.org/chromium/F$releasever/
+enabled=1
+gpgcheck=0
